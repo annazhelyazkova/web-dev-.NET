@@ -1,0 +1,65 @@
+﻿@page "/seminarone"
+@rendermode InteractiveServer
+
+<PageTitle>Seminar 1</PageTitle>
+
+<div class="seminar-page">
+    <section class="seminar-card">
+        <div class="page-heading">
+            <p class="eyebrow">Interactive exercise</p>
+            <h1>Seminar 1</h1>
+            <p class="intro">Enter some text and compare two passwords below.</p>
+        </div>
+
+        <div class="form-section">
+            <label for="textInput">Your text</label>
+            <input id="textInput" class="form-input" type="text" @bind="inputValue" placeholder="Enter text" @bind:event="oninput" />
+            <p class="preview">The text you have entered is: <strong>@inputValue</strong></p>
+        </div>
+
+        <div class="form-section">
+            <h2>Compare passwords</h2>
+            <p class="section-description">Enter both passwords to check whether they match.</p>
+
+            <div class="password-fields">
+                <div class="field-group">
+                    <label for="passwordOne">First password</label>
+                    <input id="passwordOne" class="form-input" type="password" @bind="passwordOne" placeholder="Enter the first password" />
+                </div>
+
+                <div class="field-group">
+                    <label for="passwordTwo">Second password</label>
+                    <input id="passwordTwo" class="form-input" type="password" @bind="passwordTwo" placeholder="Enter the second password" />
+                </div>
+            </div>
+
+            <button class="compare-button" type="button" @onclick="ComparePasswords">Compare passwords</button>
+            <p class="result" aria-live="polite">@label</p>
+        </div>
+    </section>
+</div>
+
+
+@code {
+    private string? inputValue;
+    private string? passwordOne;
+    private string? passwordTwo;
+    private string? label;  
+
+    private void ClearInput()
+    {
+        inputValue = string.Empty;
+    }
+
+    private void ComparePasswords()
+    {
+        if (passwordOne == passwordTwo)
+        {
+            label = "Passwords match!";
+        }
+        else
+        {
+            label = "Passwords do not match.";
+        }
+    }
+}

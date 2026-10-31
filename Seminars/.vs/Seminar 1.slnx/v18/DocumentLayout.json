@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|c:\\users\\user\\source\\repos\\web-dev-.net\\seminar 1\\components\\pages\\seminarone.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|solutionrelative:components\\pages\\seminarone.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|c:\\users\\user\\source\\repos\\web-dev-.net\\seminar 1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|c:\\users\\user\\source\\repos\\web-dev-.net\\seminar 1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|c:\\users\\user\\source\\repos\\web-dev-.net\\seminar 1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|c:\\users\\user\\source\\repos\\web-dev-.net\\seminar 1\\components\\pages\\seminarone.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D81E3F8D-09C5-4190-A0A4-A03C8F44287B}|Seminar 1.csproj|solutionrelative:components\\pages\\seminarone.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeminarOne.razor.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\SeminarOne.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\SeminarOne.razor.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\SeminarOne.razor.css",
+              "RelativeToolTip": "Components\\Pages\\SeminarOne.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-28T16:32:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T16:01:23.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeminarOne.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\SeminarOne.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SeminarOne.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\SeminarOne.razor",
+              "RelativeToolTip": "Components\\Pages\\SeminarOne.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T15:58:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T15:36:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\web-dev-.NET\\Seminar 1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T15:33:00.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

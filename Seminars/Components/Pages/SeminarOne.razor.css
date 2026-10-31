@@ -1,0 +1,147 @@
+.seminar-page {
+    min-height: calc(100vh - 2rem);
+    padding: 2rem 1rem;
+    background: linear-gradient(135deg, #eef6ff, #f8fbff);
+}
+
+.seminar-card {
+    width: min(100%, 720px);
+    margin: 0 auto;
+    padding: clamp(1.5rem, 4vw, 3rem);
+    border: 1px solid #dbe7f3;
+    border-radius: 1.25rem;
+    background: #ffffff;
+    box-shadow: 0 1rem 2.5rem rgba(31, 65, 98, 0.12);
+}
+
+.page-heading {
+    margin-bottom: 2rem;
+}
+
+.eyebrow {
+    margin: 0 0 0.5rem;
+    color: #1769aa;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+h1,
+h2 {
+    color: #17324d;
+}
+
+h1 {
+    margin: 0;
+    font-size: clamp(2rem, 5vw, 3rem);
+}
+
+h2 {
+    margin: 0;
+    font-size: 1.35rem;
+}
+
+.intro,
+.section-description,
+.preview {
+    color: #5d7185;
+}
+
+.intro {
+    margin: 0.75rem 0 0;
+    font-size: 1.05rem;
+}
+
+.form-section + .form-section {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e5edf5;
+}
+
+.form-section > label,
+.field-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #29445d;
+    font-weight: 600;
+}
+
+.section-description {
+    margin: 0.4rem 0 1.25rem;
+}
+
+.form-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.75rem 0.9rem;
+    border: 1px solid #b9c9d8;
+    border-radius: 0.6rem;
+    color: #17324d;
+    font: inherit;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.form-input:focus {
+    border-color: #1769aa;
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(23, 105, 170, 0.18);
+}
+
+.preview {
+    margin: 0.75rem 0 0;
+}
+
+.preview strong {
+    color: #17324d;
+}
+
+.password-fields {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.compare-button {
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.25rem;
+    border: 0;
+    border-radius: 0.6rem;
+    background: #1769aa;
+    color: #ffffff;
+    cursor: pointer;
+    font: inherit;
+    font-weight: 700;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.compare-button:hover {
+    background: #125486;
+    transform: translateY(-1px);
+}
+
+.compare-button:focus-visible {
+    outline: 3px solid rgba(23, 105, 170, 0.3);
+    outline-offset: 3px;
+}
+
+.result {
+    min-height: 1.5rem;
+    margin: 1rem 0 0;
+    color: #1769aa;
+    font-weight: 700;
+}
+
+@media (max-width: 600px) {
+    .seminar-page {
+        padding: 1rem 0.75rem;
+    }
+
+    .password-fields {
+        grid-template-columns: 1fr;
+    }
+
+    .compare-button {
+        width: 100%;
+    }
+}
