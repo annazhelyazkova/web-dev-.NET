@@ -1,12 +1,12 @@
 # web-dev-.NET
-.NET Web Development
+🚀 .NET Web Development
+This repository contains practical projects and materials from the .NET Web Development course, exploring Microsoft’s .NET ecosystem, C#, and modern web application development.
 
-This repository contains materials and projects for the .NET Web Development course. The course introduces Microsoft’s .NET platform, including its core concepts, architecture, components, libraries, languages and development tools.
+🛠️ Key Topics & Technologies
+Core Architecture: .NET framework concepts, components, and development tools
 
-It combines theory with practice, focusing on building web applications with .NET and C#. Topics include:
+Web Architecture: Web controls, application design, and modern architectural patterns
 
-Working with web controls
-Architectural patterns for application design
-Data access and database integration
+Data Integration: Data access methods and database management with C#
 
-The skills covered apply directly to real-world software development of web applications on the .NET platform.
+Designed to bridge theory with hands-on practice, these projects reflect real-world software engineering practices for building scalable web applications.
